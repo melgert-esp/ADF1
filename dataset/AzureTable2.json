@@ -1,0 +1,12 @@
+{
+	"name": "AzureTable2",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "espvpnstorage4table",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureTable",
+		"schema": []
+	}
+}
