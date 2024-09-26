@@ -10,9 +10,9 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "*",
-				"folderPath": "*",
-				"container": "*"
+				"fileName": "/*",
+				"folderPath": "/*",
+				"container": "test1"
 			}
 		}
 	}
