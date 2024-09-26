@@ -1,0 +1,9 @@
+{
+	"name": "esp-vpn-data-factory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "38c67a54-45cf-4dd5-9978-52c66fdeb96e",
+		"tenantId": "4061af13-460d-4470-9f60-d7fe9659ad17"
+	}
+}
